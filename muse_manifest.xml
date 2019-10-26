@@ -1,0 +1,84 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="camishoes.000webhostapp.com" resolutions="1x" timestamp="1572104015876">
+  <folder name="phone">
+    <folder name="css">
+      <file name="catalogo.css" crc="62426684" ref="phone>catalogo"/>
+      <file name="modelos.css" crc="4220638546" ref="phone>modelos"/>
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="historia.css" crc="62426684" ref="phone>historia"/>
+    </folder>
+    <file name="index.html" crc="304047214" seo="true" mt="1571891634502" redirect="false"/>
+    <file name="catalogo.html" crc="3775461049" seo="true" mt="1571891634597" redirect="false"/>
+    <file name="modelos.html" crc="153229277" seo="true" mt="1572100038236" redirect="false"/>
+    <file name="historia.html" crc="348138420" seo="true" mt="1571891634621" redirect="false"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="modelos.css" crc="475166174" ref="modelos"/>
+    <file name="historia.css" crc="468775363" ref="historia"/>
+    <file name="index.css" crc="4152247552" ref="index"/>
+    <file name="tenis.css" crc="531944722" ref="tenis"/>
+    <file name="tacon.css" crc="228594278" ref="tacon"/>
+    <file name="catalogo.css" crc="468775363" ref="catalogo"/>
+  </folder>
+  <folder name="assets">
+    <file name="bigvideo.css" crc="277060127" seo="true" mt="1455824803000"/>
+    <file name="bigvideo.js" crc="312077503" seo="true" mt="1455824803000"/>
+    <file name="bigvideo.png" crc="4061820664" seo="true" mt="1455824803000"/>
+    <file name="evoque.mp4" crc="4181020129" seo="true" mt="1571068158000"/>
+    <file name="jquery.imagesloaded.min.js" crc="4199123654" seo="true" mt="1455824803000"/>
+    <file name="jquery-ui-1.10.3.custom.min.js" crc="4174729078" seo="true" mt="1455824803000"/>
+    <file name="start.js" crc="181016414" seo="true" mt="1455824803000"/>
+    <file name="video.js" crc="480668297" seo="true" mt="1455824803000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:modelos:historia:phone>index:phone>catalogo:phone>modelos:phone>historia:catalogo:tenis:tacon"/>
+    <file name="museutils.js" crc="163421577" ref="index:modelos:historia:phone>index:phone>catalogo:phone>modelos:phone>historia:catalogo:tenis:tacon"/>
+    <file name="whatinput.js" crc="86476730" ref="index:modelos:historia:phone>index:phone>catalogo:phone>modelos:phone>historia:catalogo:tenis:tacon"/>
+    <file name="museconfig.js" crc="168988563" ref="index:modelos:historia:phone>index:phone>catalogo:phone>modelos:phone>historia:catalogo:tenis:tacon"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:modelos:tenis:tacon"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:modelos:tenis:tacon"/>
+    <file name="webpro.js" crc="3848665353" ref="index:modelos:tenis:tacon"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:modelos:tenis:tacon"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:modelos:tenis:tacon"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:modelos:tenis:tacon"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:modelos:historia:phone>index:phone>catalogo:phone>modelos:phone>historia:catalogo:tenis:tacon"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:modelos:historia:catalogo:tenis:tacon"/>
+    <file name="require.js" crc="244322403" ref="index:modelos:historia:phone>index:phone>catalogo:phone>modelos:phone>historia:catalogo:tenis:tacon"/>
+  </folder>
+  <folder name="images">
+    <file name="u120-9.png" crc="3826640637" ref="index"/>
+    <file name="boton.png" crc="475325322" ref="index"/>
+    <file name="1632.png" crc="4270118534" ref="tenis"/>
+    <file name="1632-body 1.png" crc="389051985" ref="modelos"/>
+    <file name="logo.jpg" crc="4370779" seo="true" ref="index"/>
+    <file name="blanca.png" crc="4235452088" ref="tenis"/>
+    <file name="negra.png" crc="357847765" ref="tenis"/>
+    <file name="verde.png" crc="3803182123" ref="tenis"/>
+    <file name="blancopsd.png" crc="3818924429" ref="tenis"/>
+    <file name="rosa.png" crc="3819631931" ref="tenis"/>
+    <file name="verde2.png" crc="297425833" ref="tenis"/>
+    <file name="1631.png" crc="4232496821" ref="tenis"/>
+    <file name="1633.png" crc="3905662759" ref="tenis"/>
+    <file name="16322.png" crc="4209533374" ref="modelos"/>
+    <file name="1632-u388-fr.png" crc="4050296264" ref="index:tenis:tacon:modelos"/>
+    <file name="1632-u388-m-fr.png" crc="512869246" ref="index:tenis:tacon:modelos"/>
+    <file name="tacon-u2727-fr.png" crc="448284946" ref="index:tenis:tacon:modelos"/>
+    <file name="tacon-u2727-r-fr.png" crc="4151538711" ref="index:tenis:tacon:modelos"/>
+    <file name="descarga(3).png" crc="4034383024" ref="tacon"/>
+    <file name="descarga (2).png" crc="4060968058" ref="tacon"/>
+    <file name="descarga (1).png" crc="4228852352" ref="tacon"/>
+    <file name="descarga.png" crc="81329923" ref="tacon"/>
+    <file name="descarga2.png" crc="3870917518" ref="tacon"/>
+    <file name="descarga (2)2.png" crc="3898085243" ref="tacon"/>
+    <file name="descarga (1)2.png" crc="134396514" ref="tacon"/>
+    <file name="u2742-4.png" crc="418846720" ref="modelos"/>
+    <file name="tacon.png" crc="3809103555" ref="modelos"/>
+    <file name="tacon-capa 0.png" crc="3765636129" ref="modelos"/>
+  </folder>
+  <file name="index.html" crc="3883338315" seo="true" mt="1572103642839" redirect="true"/>
+  <file name="modelos.html" crc="27418196" seo="true" mt="1572103887807" redirect="true"/>
+  <file name="historia.html" crc="2977272" seo="true" mt="1571891634910" redirect="false"/>
+  <file name="catalogo.html" crc="305670675" seo="true" mt="1571891634825" redirect="false"/>
+  <file name="tenis.html" crc="4049846605" seo="true" mt="1572103642844" redirect="true"/>
+  <file name="tacon.html" crc="3915966021" seo="true" mt="1572103642845" redirect="true"/>
+</manifest>
